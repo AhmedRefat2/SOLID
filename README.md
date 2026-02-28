@@ -54,8 +54,8 @@ and testability in software systems.
     └── Program.cs
 
 ## 📁 Inside Each Principle Folder
-🔴 Violate/ → Example demonstrating incorrect design
-🟢 Apply/ → Refactored example applying the principle correctly
+    🔴 Violate/ → Example demonstrating incorrect design
+    🟢 Apply/ → Refactored example applying the principle correctly
 
 ## 🎯 Why This Repository?
 Many developers understand SOLID theoretically, but struggle to:
@@ -70,9 +70,9 @@ This repository focuses on:
     - Realistic but easy-to-understand scenarios
 
 ## 🛠 Technologies Used
-- C#
-- .NET Console Application
-- Object-Oriented Programming concepts
+    - C#
+    - NET Console Application
+    - Object-Oriented Programming concepts
 
 ## 📖 How to Use This Repository
 
@@ -115,10 +115,11 @@ Improve examples
 ## ⭐ Support
 
 If this project helps you understand SOLID better, consider giving it a ⭐ on GitHub.
-ولا تنسونا من صالح دعائكم 
+ولا تنسونا من صالح دعائكم
 ## Author 
 
 Ahmed Refaat 
+
 Software Engineer - Backend .Net Developer 
 
 
